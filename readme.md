@@ -42,7 +42,7 @@ all things do change; all things do love; all things are locked in hate
 whoever fully thinks this through holds the key to man's estate
 ```
 
--------
+-=-=-=-
 
 ```
 from frost and plagues
