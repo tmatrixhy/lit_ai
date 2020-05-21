@@ -13,7 +13,7 @@ The artifact I have chosen to work with is Quirinus Kuhlmann’s Love-Kiss XLI. 
 
 ```
 Example for Steps 1-3 using the first line in Love-Kiss XLI: From Fog and Plagues
-'''
+```
 
 4. Construct 11 more sentences following steps a-c with each of the 12 lines in the poem.
 5. Attach Kuhlmann’s given final two sentences, one of which contains a combinatorial element.
@@ -40,7 +40,7 @@ where fear the day
 
 all things do change; all things do love; all things are locked in hate
 whoever fully thinks this through holds the key to man's estate
-'''
+```
 
 ```
 from frost and plagues
@@ -60,7 +60,7 @@ where woe the day
 
 all things do change; all things do love; all things are locked in hate
 holds the key to man's estate whoever fully thinks this through
-'''
+```
 
 ![results](https://github.com/tmatrixhy/lit_ai/blob/master/final_submission.pdf)
 
