@@ -2,7 +2,7 @@
 
 # about
 
-This was the final project for the class CLEN 4728 Literature in the Age of Artificial Intelligence with Professor Dennis Tenen.
+This was the final project for the class CLEN 4728 Literature in the Age of Artificial Intelligence with Professor Dennis Tenen at Columbia University.
 
 # proposal
 The artifact I have chosen to work with is Quirinus Kuhlmann’s Love-Kiss XLI. “Kuhlmann published his first major collection of poems in 1671 at age twenty - a sequence of fifty sonnets in alexandrines entitled Himmliche Libes-Kusse (Heavenly love-kisses), derived in part from the allegorical erotics of Solomon’s Song of Songs.” The purpose of this artifact was to generate love poems using a method Kuhlmann described in the following manner:
